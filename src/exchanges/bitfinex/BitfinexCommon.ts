@@ -18,7 +18,7 @@ export const ORDERBOOK_PRECISION: { [index: string]: string } = {
     ETHUSD: 'P2'   // 2dp
 };
 
-export const WEBSOCKET_API_VERSION = 1.1;
+export const WEBSOCKET_API_VERSION = 2.0;
 export const BITFINEX_WS_FEED = 'wss://api.bitfinex.com/ws/2'
 
 /**
